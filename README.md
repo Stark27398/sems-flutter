@@ -27,5 +27,6 @@ samples, guidance on mobile development, and a full API reference.
  
  # Instructions
  
- Initially run the application in release mode (due to flutter-web bug in windows)
+ Initially run the application in release mode (due to flutter-web bug in windows).
+ 
  Incase of any changes, quit release mode (since it will take more time to reload) and run in debug mode for quick hot-reload
