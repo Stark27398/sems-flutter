@@ -19,10 +19,15 @@ samples, guidance on mobile development, and a full API reference.
 # Initial Commands
 
  flutter channel beta 
+ 
  flutter upgrade
+ 
  flutter config --enable-web
  
+ # Run Commands
+ 
  flutter run -d chrome // to run in debug mode
+ 
  flutter run -d --release chrome // to run in release mode
  
  # Instructions
