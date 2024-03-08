@@ -1,6 +1,7 @@
-# pay
+# Sems
 
-A new Flutter project.
+A mock page of Anna University's student portal page for paying semester fees and viewing previous transactions.
+Note: The payment gateway mocks are created and hosted seperatly.
 
 ## Getting Started
 
